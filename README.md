@@ -2,6 +2,12 @@
 
 #### Video Demo: [Watch on YouTube](<YOUR_YOUTUBE_DEMO_URL_HERE>)
 
+- **Author:** Lim Jun Chuan
+- **GitHub:** [limjunchuan567](https://github.com/limjunchuan567)
+- **edX Username:** limjunchuan567
+- **City & Country:** Singapore, Singapore
+- **Date Recorded:** November 7, 2026
+
 #### Description:
 **Mood Playlist Tracker** is a full-stack web application developed as the final project for Harvard's **CS50x: Introduction to Computer Science**. The application helps users associate songs with specific emotional states or moods, and intelligently generates personalized playlists based on how they currently feel.
 
