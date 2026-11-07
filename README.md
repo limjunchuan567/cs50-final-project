@@ -1,6 +1,7 @@
 # Mood Playlist Tracker
 
-#### Video Demo: [Watch on YouTube](<https://youtu.be/tsnpOqQY7kk>)
+#### Video Demo: https://youtu.be/tsnpOqQY7kk
+([Watch on YouTube](https://youtu.be/tsnpOqQY7kk))
 
 - **Author:** Lim Jun Chuan
 - **GitHub:** [limjunchuan567](https://github.com/limjunchuan567)
