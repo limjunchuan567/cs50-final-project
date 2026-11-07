@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block main %}
+    <h2>Welcome back</h2>
+    <p class="lead">You have {{ song_count }} song{{ "" if song_count == 1 else "s" }} in your library.</p>
+
+    <div class="my-4">
+        <a class="btn btn-primary me-2" href="/playlist">Make a playlist</a>
+        <a class="btn btn-outline-primary" href="/add">Add a song</a>
+    </div>
+
+    {% if recent %}
+        <h4 class="mt-5">Recent playlists</h4>
+        <ul class="list-unstyled">
+            {% for log in recent %}
+                <li><a href="/playlist/{{ log.id }}">{{ log.mood }}</a>
+                    <span class="text-muted">({{ log.timestamp }} UTC)</span></li>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endblock %}

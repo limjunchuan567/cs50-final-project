@@ -1,0 +1,6 @@
+moodtracker.db
+__pycache__/
+.env
+venv/
+.venv/
+flask_session/
