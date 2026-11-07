@@ -4,7 +4,7 @@
 
 - **Author:** Lim Jun Chuan
 - **GitHub:** [limjunchuan567](https://github.com/limjunchuan567)
-- **edX Username:** limjunchuan567
+- **edX Username:** LJ_2506_V5NG
 - **City & Country:** Singapore, Singapore
 - **Date Recorded:** November 7, 2026
 
